@@ -1,0 +1,13 @@
+EEG-RSA 一键分析工具 · Python版 v1.0
+
+核心定位：真实任务态 EEGLAB .set 的基础 RSA 图形化分析。
+不再依赖 MATLAB。
+
+本版重点：
+1. 自动读取 .set 和事件；
+2. 用户选择条件；
+3. 用户选择时间窗；
+4. 用户选择 Neural RDM 距离；
+5. 建立/导入 Model RDM；
+6. Spearman/Pearson/Kendall 比较；
+7. 自动输出 RDM、结果表和图片。

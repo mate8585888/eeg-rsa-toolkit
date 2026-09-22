@@ -1,0 +1,5 @@
+condition,Condition_A,Condition_B,Condition_C,Condition_D
+Condition_A,0,0,1,1
+Condition_B,0,0,1,1
+Condition_C,1,1,0,0
+Condition_D,1,1,0,0
